@@ -1,0 +1,37 @@
+antecedent,consequent,support,confidence,lift
+{chocolate},{spaghetti},0.039,0.239,1.374
+{chocolate},{eggs},0.033,0.203,1.127
+{chocolate},{french fries},0.034,0.210,1.228
+{chocolate},{mineral water},0.053,0.321,1.348
+{chocolate},{milk},0.032,0.196,1.513
+{frozen vegetables},{mineral water},0.036,0.375,1.572
+{ground beef},{spaghetti},0.039,0.399,2.291
+{ground beef},{mineral water},0.041,0.417,1.748
+{spaghetti},{chocolate},0.039,0.225,1.374
+{spaghetti},{ground beef},0.039,0.225,2.291
+{spaghetti},{eggs},0.037,0.210,1.167
+{spaghetti},{mineral water},0.060,0.343,1.439
+{spaghetti},{milk},0.035,0.204,1.572
+{pancakes},{mineral water},0.034,0.355,1.489
+{eggs},{chocolate},0.033,0.185,1.127
+{eggs},{spaghetti},0.037,0.203,1.167
+{eggs},{french fries},0.036,0.203,1.185
+{eggs},{mineral water},0.051,0.283,1.189
+{eggs},{milk},0.031,0.171,1.322
+{french fries},{chocolate},0.034,0.201,1.228
+{french fries},{eggs},0.036,0.213,1.185
+{french fries},{mineral water},0.034,0.197,0.828
+{mineral water},{chocolate},0.053,0.221,1.348
+{mineral water},{frozen vegetables},0.036,0.150,1.572
+{mineral water},{ground beef},0.041,0.172,1.748
+{mineral water},{spaghetti},0.060,0.251,1.439
+{mineral water},{pancakes},0.034,0.141,1.489
+{mineral water},{eggs},0.051,0.214,1.189
+{mineral water},{french fries},0.034,0.141,0.828
+{mineral water},{milk},0.048,0.201,1.554
+{mineral water},{green tea},0.031,0.130,0.986
+{milk},{chocolate},0.032,0.248,1.513
+{milk},{spaghetti},0.035,0.274,1.572
+{milk},{eggs},0.031,0.238,1.322
+{milk},{mineral water},0.048,0.370,1.554
+{green tea},{mineral water},0.031,0.235,0.986
